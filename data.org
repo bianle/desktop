@@ -1,0 +1,3 @@
+| id        | title     | url                   | img                         | text      | width | hei |
+|-----------+-----------+-----------------------+-----------------------------+-----------+-------+-----|
+| Kindle114 | Kindle114 | http://kindle114.com/ | static/icon/icon-kindle.png | kindle114 |   600 | 900 |
